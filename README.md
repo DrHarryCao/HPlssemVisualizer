@@ -1,8 +1,9 @@
 # PLS-SEM Academic Visualization Suite
 # PLS-SEM 学术高级可视化工具集
 
-> 🚀 **Developed by Dr. Harry Cao / 由 Dr. Harry Cao 独立开发**
-> 🚀 **引用格式Cite：Cao, J. (2026). HPlssemVisualizer [Computer software]. GitHub. https://github.com/DrHarryCao/HPlssemVisualizer
+## 🚀 **Developed by Dr. Harry Cao / 由 Dr. Harry Cao 独立开发**
+
+## 🚀 **引用格式Cite：Cao, J. (2026). HPlssemVisualizer [Computer software]. GitHub. https://github.com/DrHarryCao/HPlssemVisualizer**
 
 ## 🌟 Introduction / 简介
 
